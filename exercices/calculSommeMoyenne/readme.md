@@ -1,0 +1,1 @@
+# Application qui calcule la somme et la moyenne de plusieurs nombres saisis par l'utilisateur. 
